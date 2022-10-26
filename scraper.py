@@ -59,4 +59,5 @@ import sys
 
 if __name__=="__main__":
     topic  = sys.argv[1]
+    print("Changed")
     scrape_topic_repositories(topic)

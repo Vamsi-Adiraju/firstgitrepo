@@ -13,4 +13,4 @@ def test_close(a, b):
     if math.isclose(a, b):
         print("Result: PASSED")
     else:
-        print("Result: FAILED")
+        print("Result: FAILEDddd")
