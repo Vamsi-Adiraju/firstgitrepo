@@ -6,6 +6,7 @@ from utits.testing import test_equal, test_close
 import utits.counting as C
 
 print("\nSOME PROBABILITY PROBLEMS\n")
+print("This is the change")
 
 # Question 1
 print("Q: Find the probability of getting a head when you toss a fair coin?")
